@@ -7,8 +7,8 @@
     "force sub Bot"
   ],
   "success_url": "https://t.me/kunaldiwan",
-  "website": "https://github.com/Kunal-Diwan/ForceSubscribe",
-  "repository": "https://github.com/Kunal-Diwan/ForceSubscribe",
+  "website": "https://github.com/Kunal-Diwan/ForceSubscriber",
+  "repository": "https://github.com/Kunal-Diwan/ForceSubscriber",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
