@@ -1,4 +1,5 @@
 # Force Subscriber
+
 **A Telegram Bot to force users to join a specific channel before sending messages in a group.**
 - 
 Find it on Telegram as [𝐅𝐨𝐫𝐜𝐞 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞𝐫](https://t.me/ForceSubscriber_Bot)
